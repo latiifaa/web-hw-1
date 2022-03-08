@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    color: red;
+    text-align: center;
+  }
+
+  p {
+      font-weight: bold;
+      font-style: italic;
+      text-align: center;
+      color: rgb(4, 4, 194);
+  }
+
+  ol {
+      font-size: large;
+  }
+
+  a {
+      text-decoration: none;
+      text-align: center;
+      font-size: x-large;
+  }
+
+  button {
+      font-size: large;
+      background-color: black;
+    
+  }
+
+  .button {
+    color: aliceblue;
+}
